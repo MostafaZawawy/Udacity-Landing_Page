@@ -1,13 +1,6 @@
-# Landing Page Project
-
-## Table of Contents
-
-* [Instructions](#instructions)
-
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+# Udacity-Landing_page
+This project is for Udacity's Front End JavaScript Nanodegree program. HTML and CSS starter code is given by udacity
+# Description
+Landing pages alaways have a NavBar , by using javascript created a Navbar dynamically
+and added the fuctionality of knowing with section is scrolled using event listeners
+# VeiwProject
